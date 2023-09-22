@@ -7,7 +7,7 @@
 <a href="https://instagram.com/matheuslc_" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" /></a>
 
 - 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/)
-- 🌱 Learning: NextJS
+- 🌱 Learning: Game development
 - 📫 How to reach me: matheuscaldas95@gmail.com
 - ⚡ Portfolio: [Link](https://matheus-c-lima.vercel.app)
 
