@@ -1,10 +1,6 @@
 # Hi, I'm Matheus Lima
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=verossim&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p
-
-<a href="https://twitter.com/matheuslc_" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" /></a>
-<a href="https://linkedin.com/in/matheus-c-lima" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /></a>
-<a href="https://instagram.com/matheuslc_" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" /></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=verossim&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
 
 - 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/)
 - 🌱 Learning: Game development
